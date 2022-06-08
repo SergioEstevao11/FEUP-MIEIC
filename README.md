@@ -1,6 +1,6 @@
 # Feup-MIEIC
 
-Collention of project elaborated in FEUP's Integrated Masters in Informatics and Computing Engineering.
+Collection of projects elaborated in FEUP's Integrated Masters in Informatics and Computing Engineering.
 
 | Name                     | Subject | Type | About                                          | Year |
 |--------------------------|---------|------|------------------------------------------------|------|
