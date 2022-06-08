@@ -1,4 +1,4 @@
-# Feup-MIEIC
+# FEUP-MIEIC
 
 Collection of projects elaborated in FEUP's Integrated Masters in Informatics and Computing Engineering.
 
