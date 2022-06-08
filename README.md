@@ -14,10 +14,10 @@ Collection of projects elaborated in FEUP's Integrated Masters in Informatics an
 | [VaccineRouter](https://github.com/SergioEstevao11/CAL-Projeto/tree/master/VaccineRouter) | CAL | Proj | Approach to the Multi-Depot Vehicle Routing problem developed in C++ | 2nd |
 | [Haskell Math](https://github.com/SergioEstevao11/FEUP-PFL-TP1/tree/main/PFL_TP1_G5_06) | PFL | Proj | Fibonacci operations and Big Numbers Calculator developed in Haskell | 3rd |
 | [Snort](https://github.com/SergioEstevao11/Snort)                    | PFL    | Proj | Snort game developed in PROLOG language        | 3rd  |
-| [Uni-Verse](https://github.com/SergioEstevao11/FEUP-LBAW) | LBAW | Proj | Q&A website project developed using Laravel, Bootstrap, and Blade | 3rd | 
+| [Mancala](https://github.com/SergioEstevao11/FEUP-LTW) | LTW | Proj | Website with the Mancala game developed using HTML, CSS, and JavaScript | 3rd |
 | [SeedLabs](https://github.com/SergioEstevao11/FSI-LOGBOOKS) | FSI | Exercises | SeedLabs exercises' logbooks | 3rd |
 | [CTFs](https://github.com/SergioEstevao11/FSI-LOGBOOKS) | FSI | Exercises | CTF exercises' logbooks | 3rd |
-| [Mancala](https://github.com/SergioEstevao11/FEUP-LTW) | LTW | Proj | Website with the Mancala game developed using HTML, CSS, and JavaScript | 3rd |
+| [Uni-Verse](https://github.com/SergioEstevao11/FEUP-LBAW) | LBAW | Proj | Q&A website project developed using Laravel, Bootstrap, and Blade | 3rd | 
 | [Serial Port File Transfer](https://github.com/SergioEstevao11/RCOM/tree/main/project1) | RCOM | Proj | Serial Port File Transfering developed in C | 3rd |
 | [Computer Network Setup](https://github.com/SergioEstevao11/RCOM/tree/main/project2) | RCOM | Proj | Setup and Configuration of a Computer Network done in C | 3rd |
 | [Traffic Signalling Optimization](https://github.com/SergioEstevao11/FEUP-IART-Optimization) | IART | Proj | Optimization problem based on the Google Hashcode 2021, developed in Python | 3rd | 
