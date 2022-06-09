@@ -6,7 +6,7 @@ Collection of projects elaborated in FEUP's Integrated Masters in Informatics an
 |--------------------------|---------|------|------------------------------------------------|------|
 | [Buy Now](https://github.com/SergioEstevao11/ONLINE-SHOP/tree/main/PART_2)              | AEDA    | Proj | Online Shop developed in C++                       | 2nd  |
 | [Penguin Run](https://github.com/SergioEstevao11/FEUP-LCOM/tree/master/proj)              | LCOM    | Proj | Game in minix system developed in C                        | 2nd  |
-| ['chmod' Command](https://github.com/SergioEstevao11/sope-mp1) | SOPE | Proj | Linux's 'chmod' command replica developed in C | 2nd |
+| ['xmod' Command](https://github.com/SergioEstevao11/sope-mp1) | SOPE | Proj | Linux's 'chmod' command replica developed in C | 2nd |
 | [Server-Client System](https://github.com/SergioEstevao11/sope-mp2) | SOPE | Proj | Server-Client Thread Pool system developed in C | 2nd |
 | [OceanView](https://github.com/SergioEstevao11/FEUP-CGRA/tree/master/project) | CGRA | Proj | Game and ocean simulation developed in JavaScript and GLSL | 2nd |
 | [Forager](https://github.com/SergioEstevao11/LPOO-projeto)              | LPOO    | Proj | Rogue-like game developed in Java           | 2nd  |
