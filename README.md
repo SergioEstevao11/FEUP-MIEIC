@@ -23,4 +23,3 @@ Collection of projects elaborated in FEUP's Integrated Masters in Informatics an
 | [Traffic Signalling Optimization](https://github.com/SergioEstevao11/FEUP-IART-Optimization) | IART | Proj | Optimization problem based on the Google Hashcode 2021, solved with python | 3rd | 
 | [JMM Compiler](https://github.com/SergioEstevao11/JMM-Compiler) | COMP | Proj | Compiler for the Java-- language developed in Java | 3rd | 
 | [Distributed Storage System](https://github.com/SergioEstevao11/Distributed-Store) | CPD | Proj |  Distributed and Partitioned Storage system based on the Amazon's Dynamo developed in Java | 3rd | 
-| [Traffic Signalling Optimization](https://github.com/SergioEstevao11/FEUP-IART-Optimization) | IART | Proj | Optimization problem based on the Google Hashcode 2021, developed in Python | 3rd | 
