@@ -21,3 +21,5 @@ Collention of project elaborated in FEUP's Integrated Masters in Informatics and
 | [Serial Port File Transfer](https://github.com/SergioEstevao11/RCOM/tree/main/project1) | RCOM | Proj | Serial Port File Transfering developed in C | 3rd |
 | [Computer Network Setup](https://github.com/SergioEstevao11/RCOM/tree/main/project2) | RCOM | Proj | Setup and Configuration of a Computer Network done in C | 3rd |
 | [Traffic Signalling Optimization](https://github.com/SergioEstevao11/FEUP-IART-Optimization) | IART | Proj | Optimization problem based on the Google Hashcode 2021, solved with python | 3rd | 
+| [JMM Compiler](https://github.com/SergioEstevao11/JMM-Compiler) | COMP | Proj | Compiler for the Java-- language developed in Java | 3rd | 
+| [Distributed Storage System](https://github.com/SergioEstevao11/Distributed-Store) | CPD | Proj |  Distributed and Partitioned Storage system based on the Amazon's Dynamo developed in Java | 3rd | 
