@@ -22,4 +22,5 @@ Collection of projects elaborated in FEUP's Integrated Masters in Informatics an
 | [Computer Network Setup](https://github.com/SergioEstevao11/RCOM/tree/main/project2) | RCOM | Proj | Setup and Configuration of a Computer Network done in C | 3rd |
 | [Traffic Signalling Optimization](https://github.com/SergioEstevao11/FEUP-IART-Optimization) | IART | Proj | Optimization problem based on the Google Hashcode 2021, solved with python | 3rd | 
 | [JMM Compiler](https://github.com/SergioEstevao11/JMM-Compiler) | COMP | Proj | Compiler for the Java-- language developed in Java | 3rd | 
+| [Single Core Performance](https://github.com/SergioEstevao11/SingleCorePerformance) | CPD | Proj |  Evaluation of Single Core Performance for cache friendly matrix multiplication in C/C++ and Rust  | 3rd |
 | [Distributed Storage System](https://github.com/SergioEstevao11/Distributed-Store) | CPD | Proj |  Distributed and Partitioned Storage system based on the Amazon's Dynamo developed in Java | 3rd | 
