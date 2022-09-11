@@ -20,10 +20,7 @@ Collection of projects elaborated in FEUP's Integrated Masters in Informatics an
 | [Uni-Verse](https://github.com/SergioEstevao11/FEUP-LBAW) | LBAW | Proj | Q&A website project developed using Laravel, Bootstrap, and Blade | 3rd | 
 | [Serial Port File Transfer](https://github.com/SergioEstevao11/RCOM/tree/main/project1) | RCOM | Proj | Serial Port File Transfering developed in C | 3rd |
 | [Computer Network Setup](https://github.com/SergioEstevao11/RCOM/tree/main/project2) | RCOM | Proj | Setup and Configuration of a Computer Network done in C | 3rd |
-<<<<<<< HEAD
 | [Traffic Signalling Optimization](https://github.com/SergioEstevao11/FEUP-IART-Optimization) | IART | Proj | Optimization problem based on the Google Hashcode 2021, solved with python | 3rd | 
-| [JMM Compiler](https://github.com/SergioEstevao11/JMM-Compiler) | COMP | Proj | Compiler for the Java-- language developed in Java | 3rd | 
-| [Distributed Storage System](https://github.com/SergioEstevao11/Distributed-Store) | CPD | Proj |  Distributed and Partitioned Storage system based on the Amazon's Dynamo developed in Java | 3rd | 
-=======
-| [Traffic Signalling Optimization](https://github.com/SergioEstevao11/FEUP-IART-Optimization) | IART | Proj | Optimization problem based on the Google Hashcode 2021, developed in Python | 3rd | 
->>>>>>> b36058dc33ae18c4313022f8f0f91c7377328793
+| [JMM Compiler](https://github.com/SergioEstevao11/JmmCompiler) | COMP | Proj | Compiler for the Java-- language developed in Java | 3rd | 
+| [Single Core Performance](https://github.com/SergioEstevao11/CPD-Projects/tree/main/assign1) | CPD | Proj | Test the impact of cache faults in the performance of a single threaded program | 3rd |
+| [Distributed Storage System](https://github.com/SergioEstevao11/CPD-Projects/tree/main/assign2) | CPD | Proj |  Distributed and Partitioned Storage system based on the Amazon's Dynamo developed in Java | 3rd | 
