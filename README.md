@@ -24,7 +24,6 @@ Collection of projects elaborated in FEUP's Integrated Masters in Informatics an
 | [JMM Compiler](https://github.com/SergioEstevao11/JmmCompiler) | COMP | Compiler for the Java-- language developed in Java | 3rd | 
 | [Single Core Performance](https://github.com/SergioEstevao11/CPD-Projects/tree/main/assign1) | CPD | Test the impact of cache faults in the performance of a single threaded program in C/C++ and Rust | 3rd |
 | [Distributed Storage System](https://github.com/SergioEstevao11/CPD-Projects/tree/main/assign2) | CPD |  Distributed and Partitioned Storage system based on the Amazon's Dynamo developed in Java | 3rd | 
-| [Distributed Storage System](https://github.com/SergioEstevao11/CPD-Projects/tree/main/assign2) | CPD |  Distributed and Partitioned Storage system based on the Amazon's Dynamo developed in Java | 3rd |
 | [Bank Loan Prediction](https://github.com/SergioEstevao11/FEUP-AC#bank-loan-prediction-machine-learning) | AC | Machine Learning project to predict loan defaulting and analysis of client profiles | 4th |
 | [Space Checkers](https://github.com/SergioEstevao11/FEUP-SGI) | SGI |  Realistic Starwars inspired checkers game done with JS | 4th |
 | [Distributed PubSub](https://github.com/SergioEstevao11/FEUP-SDLE-DistributedPubSub) | SDLE |  Distributed PubSub client&server system done in Rust | 4th |
