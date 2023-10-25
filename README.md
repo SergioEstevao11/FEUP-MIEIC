@@ -28,8 +28,8 @@ Collection of projects elaborated in FEUP's Integrated Masters in Informatics an
 | [Bank Loan Prediction](https://github.com/SergioEstevao11/FEUP-AC#bank-loan-prediction-machine-learning) | AC | Machine Learning project to predict loan defaulting and analysis of client profiles | 4th |
 | [Space Checkers](https://github.com/SergioEstevao11/FEUP-SGI) | SGI |  Realistic Starwars inspired checkers game done with JS | 4th |
 | [Distributed PubSub](https://github.com/SergioEstevao11/FEUP-SDLE-DistributedPubSub) | SDLE |  Distributed PubSub client&server system done in Rust | 4th |
-| [Distributed Timeline](https://github.com/SergioEstevao11/FEUP-SDLE-DistributedTimeline) | CPD |  Decentralized Twitter built in Go using LibP2P | 4th |
-| [Arxiv Paper Retrieval](https://github.com/SergioEstevao11/FEUP-PRI) | CPD |   Information Retrieval System for academic papers in Arxiv developed using Solr | 4th |
+| [Distributed Timeline](https://github.com/SergioEstevao11/FEUP-SDLE-DistributedTimeline) | SDLE |  Decentralized Twitter built in Go using LibP2P | 4th |
+| [Arxiv Paper Retrieval](https://github.com/SergioEstevao11/FEUP-PRI) | PRI |   Information Retrieval System for academic papers in Arxiv developed using Solr | 4th |
 | [Colorization CNN as pre-training](https://github.com/SergioEstevao11/FEUP-VC/tree/main/project2) | VC | Exploration of Colorzation CNNs as pre-training for classification task, developed using Pytorch | 4th |
 | [Network of Thrones](https://github.com/SergioEstevao11/FEUP-BDNR) | BDNR |   Kinship and conflicts in the European Monarchy, using JanusGraph with a Cassandra cluster | 4th |
 | [Matrix Product Energy Analysis](https://github.com/SergioEstevao11/FEUP-CPA-MatrixProduct) | CPA |   Analysis and Measurement of Energy Comsumption for Matrix Multiplication in the CPU | 4th |
